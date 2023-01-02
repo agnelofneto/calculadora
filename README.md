@@ -16,6 +16,12 @@ What was developed:
   
 <br />
 
+<h1 align="center">
+	<img alt="Gif of Calculator " title="gif" src="./calculadora_video.gif" />
+	</h1>
+	
+	<br>
+
 
 ## 🧪 Tools
 
