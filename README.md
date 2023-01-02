@@ -20,7 +20,7 @@ What was developed:
 	<img alt="Gif of Calculator " title="gif" src="./calculadora_video.gif" />
 	</h1>
 	
-	<br>
+
 
 
 ## 🧪 Tools
