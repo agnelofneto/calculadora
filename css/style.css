@@ -1,0 +1,61 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background: url(/img/modern_futuristic_background.jpg) no-repeat top center;
+  background-attachment: fixed;
+  background-size: cover;
+  align-items: center;
+  justify-items: center;
+}
+
+#screen_result {
+  width: 87%;
+  height: 50px;
+  margin: 22px;
+  font-size: 22px;
+  color: black;
+  text-align: right;
+}
+
+.area {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.container {
+  background-color: #1c1c1c;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 1rem;
+  width: 20rem;
+  color: white;
+  margin-top: 4rem;
+}
+
+.btn {
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  color: white;
+  background-color: orange;
+  border: none;
+  font-size: 18px;
+  margin: 3px;
+}
+button:hover {
+  cursor: pointer;
+  background: darkgray;
+}
+.btn_equal {
+  height: 122px;
+  background: #5ccb5f;
+}
+.btn_zero {
+  width: 122px;
+}
+.btn_c {
+  background: tomato;
+}
